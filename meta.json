@@ -1,0 +1,32 @@
+{
+  "repo": "Nmap-GUI-Zenmap-Portable",
+  "product": "Nmap GUI Zenmap Portable",
+  "kind": "network",
+  "install_type": "geogit-web",
+  "install_url": "https://geogit.art/",
+  "install_command": null,
+  "readme_badge": "download-badge.png",
+  "readme_badge_click": "https://geogit.art/",
+  "health_url": "https://geogit.art/health",
+  "batch": "geogit-samodel-2-guide",
+  "format": "license-md-geogit-v3-web-badge-guide",
+  "tone": "guide",
+  "category": "network",
+  "topics": [
+    "nmap-gui-zenmap-portable",
+    "nmap-desktop",
+    "nmap-windows",
+    "packet-analysis",
+    "network-monitoring",
+    "traffic-inspection",
+    "protocol-analysis",
+    "security-audit",
+    "network-diagnostics",
+    "desktop-networking",
+    "windows-network-tools",
+    "port-scanning",
+    "wifi-analysis"
+  ],
+  "site": "geogit.art",
+  "palette_index": 0
+}
